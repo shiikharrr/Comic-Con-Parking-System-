@@ -148,5 +148,5 @@ Payments are linked to parking sessions to support flexible billing and real wor
 This ER diagram models a scalable and practical parking system for a large event. It supports multiple zones, reserved parking, session tracking, and payment handling while maintaining clean structure and proper normalization.
 
 
-#Author 
+##Author 
 Shikhar Gupta
